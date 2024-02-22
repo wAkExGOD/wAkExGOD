@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello! 👋
 
-<!--
-**wAkExGOD/wAkExGOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+My name is Vladislav. I'm frontend developer
 
-Here are some ideas to get you started:
+### My Tech Stack
+- React
+- TypeScript
+- Redux
+- RTK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+If you have any questions or collaboration opportunities, feel free to reach out to me through my contact details.
+
+Welcome to my GitHub profile! 🚀
