@@ -9,7 +9,9 @@ My name is Vladislav. I'm frontend developer
 - Redux
 - RTK
 
-## Contact
+### Contact
 If you have any questions or collaboration opportunities, feel free to reach out to me through my contact details.
+
+[![Telegram Badge](https://img.shields.io/badge/-wakexgod-blue?style=social&logo=telegram&link=https://t.me/wakexgod)](https://t.me/wakexgod) <p align='left'>
 
 Welcome to my GitHub profile! 🚀
