@@ -1,8 +1,5 @@
 ## Hello! 👋
 
-### About Me
-My name is Vladislav. I'm frontend developer
-
 ### My Tech Stack
 - React
 - TypeScript
